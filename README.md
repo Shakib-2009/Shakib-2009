@@ -43,7 +43,7 @@ My approach is simple: **Gain 1%. Keep building.**
 
 | Course | Credential | Completed | Certificate |
 | --- | --- | --- | --- |
-| Certified Ethical Hacker (CEH v11) Training Course | Training course completion | 9 October 2025 | [View PDF](certificates/ethical-hacking-training.pdf) |
+| Certified Ethical Hacker (CEH v11) Training Course | Training course completion | 9 October 2025 | [Open / Download PDF](https://raw.githubusercontent.com/Shakib-2009/Shakib-2009/main/certificates/ethical-hacking-training.pdf) |
 | Introduction to Cybersecurity | Cisco Networking Academy course completion | 22 August 2025 | [View PDF](certificates/introduction-to-cybersecurity.pdf) |
 | JavaScript Essentials 1 | Cisco Networking Academy course completion | 22 June 2026 | [View PDF](certificates/javascript-essentials-1.pdf) |
 
