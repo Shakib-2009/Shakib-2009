@@ -47,12 +47,6 @@ My approach is simple: **Gain 1%. Keep building.**
 | Introduction to Cybersecurity | Cisco Networking Academy course completion | 22 August 2025 | [View PDF](certificates/introduction-to-cybersecurity.pdf) |
 | JavaScript Essentials 1 | Cisco Networking Academy course completion | 22 June 2026 | [View PDF](certificates/javascript-essentials-1.pdf) |
 
-<a href="certificates/ethical-hacking-training.jpg">
-  <img src="certificates/ethical-hacking-training.jpg" alt="Shakib's CEH v11 training course completion certificate, issued 9 October 2025" width="700" />
-</a>
-
-[Download original ethical hacking certificate (PDF)](https://raw.githubusercontent.com/Shakib-2009/Shakib-2009/main/certificates/ethical-hacking-training.pdf)
-
 ### Explore My Work
 
 | Project | What you'll find |
