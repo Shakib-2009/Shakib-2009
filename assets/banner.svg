@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Shakib - Gain 1%. Keep building.</title>
+  <desc id="desc">A charcoal banner with mint and coral accents, Shakib's name, and a programming-inspired progress motif.</desc>
+  <rect width="1200" height="340" rx="8" fill="#17191c"/>
+  <path d="M0 0H1200V8H0Z" fill="#66e2b3"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="66" y="73" font-size="15" fill="#66e2b3">CODE / LEARN / BUILD</text>
+    <text x="62" y="174" font-size="88" font-weight="700" fill="#ffffff">SHAKIB</text>
+    <text x="66" y="224" font-size="27" fill="#d7dbdf">Gain 1%. Keep building.</text>
+    <text x="66" y="289" font-size="16" fill="#a9b1ba">C PROGRAMMING + WEB DEVELOPMENT</text>
+  </g>
+  <g fill="none" stroke-width="3">
+    <path d="M922 91L863 150L922 209M1024 91L1083 150L1024 209" stroke="#66e2b3"/>
+    <path d="M990 83L956 217" stroke="#ff8c80"/>
+  </g>
+  <g fill="#66e2b3">
+    <rect x="867" y="266" width="26" height="12" rx="2"/>
+    <rect x="905" y="252" width="26" height="26" rx="2"/>
+    <rect x="943" y="238" width="26" height="40" rx="2"/>
+    <rect x="981" y="224" width="26" height="54" rx="2"/>
+  </g>
+  <rect x="1019" y="210" width="26" height="68" rx="2" fill="#ff8c80"/>
+</svg>
