@@ -16,7 +16,7 @@
 
 ### Hey, I'm Shakib
 
-I'm learning C programming and full-stack web development through practice, assignments, and projects. I like working through a problem, understanding why the code behaves the way it does, and improving it step by step.
+I'm learning C programming, full-stack web development, and ethical hacking basics through courses, practice, assignments, and projects. I like working through a problem, understanding why the code behaves the way it does, and improving it step by step.
 
 My approach is simple: **Gain 1%. Keep building.**
 
@@ -24,6 +24,7 @@ My approach is simple: **Gain 1%. Keep building.**
 
 - **Programming fundamentals:** arrays, loops, sorting, strings, and searching in C.
 - **Web development:** HTML, CSS, JavaScript, Bootstrap, and jQuery.
+- **Cybersecurity:** building a foundation in cybersecurity and ethical hacking through coursework and authorized practice.
 - **Git & GitHub:** keeping my practice organized and sharing my progress.
 
 ### My Toolkit
@@ -37,6 +38,14 @@ My approach is simple: **Gain 1%. Keep building.**
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
+
+### Certificates
+
+| Course | Credential | Completed | Certificate |
+| --- | --- | --- | --- |
+| Certified Ethical Hacker (CEH v11) Training Course | Training course completion | 9 October 2025 | [View PDF](certificates/ethical-hacking-training.pdf) |
+| Introduction to Cybersecurity | Cisco Networking Academy course completion | 22 August 2025 | [View PDF](certificates/introduction-to-cybersecurity.pdf) |
+| JavaScript Essentials 1 | Cisco Networking Academy course completion | 22 June 2026 | [View PDF](certificates/javascript-essentials-1.pdf) |
 
 ### Explore My Work
 
